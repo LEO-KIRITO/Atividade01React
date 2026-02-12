@@ -15,8 +15,8 @@ const dados = {
 const skills = ["C#", "JS", "HTML", "React"];
 
 const projects = [
-    { name: "Desenvolvedor Júnior", tech: "em busca de esperiência" },
-    { name: "Desenvolvedor Front-End ", tech: "em busca de esperiência " },
+    { name: "Desenvolvedor Júnior", tech: "em busca de experiência" },
+    { name: "Desenvolvedor Front-End ", tech: "em busca de experiência " },
 ];
 
 const linguas = ["English", "Portuguese"];
